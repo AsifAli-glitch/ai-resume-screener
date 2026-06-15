@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+sentence-transformers
+pymupdf
+kaggle
+plotly
